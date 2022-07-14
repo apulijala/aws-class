@@ -19,3 +19,6 @@ variable "sec_group_name" {
   type = string
 }
 
+variable "db_sec_group_name" {
+
+}
